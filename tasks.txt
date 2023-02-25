@@ -1,0 +1,5 @@
+* There are 3 containers.
+* Each container contains a list of items
+* The 3 containers should appear in a single row in desktop screen (with equal widths)
+* The 3 containers should appear in two rows in tablet screen (with equal widths). The first row contains 2 containers and the second row contains one.
+* The 3 containers should appear in three rows in mobile screen One container in a row.
